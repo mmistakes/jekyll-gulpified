@@ -21,7 +21,6 @@
     "gulp-gzip": "^1.1.0",
     "gulp-htmlmin": "^2.0.0",
     "gulp-if": "^2.0.1",
-    "gulp-image-resize": "^0.10.0",
     "gulp-imagemin": "^3.0.0",
     "gulp-inject": "^4.0.0",
     "gulp-newer": "^1.2.0",

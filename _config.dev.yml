@@ -1,0 +1,7 @@
+# Development override settings
+
+url         : http://localhost:4000  # development URL
+
+profile     : true  # enable Liquid profiler
+future      : true  # show future posts
+show_drafts : true  # show draft posts

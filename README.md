@@ -47,8 +47,8 @@ jekyll-gulpified
 ### Dependencies:
 
 - **Ruby**: >2.0 with Bundler >1.10
-- **Node**: >4.2 and Yo >1.7.0
-- **Gulp**: Since the release candidate is running Gulp 4.0 you need to install `gulp-cli`: `npm install gulp-cli -g`
+- **Node**: >4.2
+- **Gulp**: >4.0 install `gulp-cli`: `npm install gulp-cli -g`
 
 **Step 1:** Install [Bundler](http://bundler.io/), then run `bundle install`.
 
